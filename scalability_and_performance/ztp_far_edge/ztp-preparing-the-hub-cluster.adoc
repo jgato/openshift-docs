@@ -39,6 +39,12 @@ include::modules/ztp-acm-adding-images-to-mirror-registry.adoc[leveloffset=+1]
 
 include::modules/ztp-enabling-assisted-installer-service-on-bare-metal.adoc[leveloffset=+1]
 
+[role="_additional-resources"]
+.Additional resources
+
+* link:https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/clusters/cluster_mce_overview#enable-cim[Enabling the Central Infrastructure Management service]
+
+
 include::modules/ztp-configuring-the-cluster-for-a-disconnected-environment.adoc[leveloffset=+1]
 
 [role="_additional-resources"]
